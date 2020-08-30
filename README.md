@@ -1,10 +1,13 @@
 #Project Setup
 
-Dependencies
-
+Dependencies:
 npm install
 composer install/update
 
-Database Connection
+
+
+
+
+Database Connection:
 username: root
 password:
